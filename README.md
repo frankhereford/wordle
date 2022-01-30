@@ -6,9 +6,9 @@ This repo is used to experiment with Netlify Integrations and Deployments. This 
 
 ## Changes
 
-Harder: You get 5 guesses.
-Faster: New game every hour.
-Better: It's actually the same.
+- Harder: You get 5 guesses.
+- Faster: New game every hour.
+- Better: It's actually the same.
 
 # Wordle Clone
 
