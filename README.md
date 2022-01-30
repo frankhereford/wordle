@@ -1,3 +1,15 @@
+# Fork of [hannahcode/wordle](https://github.com/hannahcode/wordle).
+
+## Why?
+
+This repo is used to experiment with Netlify Integrations and Deployments. This repo has been modified to use a public library available under my same account. It has actions. It has dependabot complaints.
+
+## Changes
+
+Harder: You get 5 guesses.
+Faster: New game every hour.
+Better: It's actually the same.
+
 # Wordle Clone
 
 - Go play the real Wordle [here](https://www.powerlanguage.co.uk/wordle/)
