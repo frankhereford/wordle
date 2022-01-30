@@ -1,5 +1,7 @@
 # Fork of [hannahcode/wordle](https://github.com/hannahcode/wordle).
 
+Play here: https://wordle.umop-episdn.com/.
+
 ## Why?
 
 This repo is used to experiment with Netlify Integrations and Deployments. This repo has been modified to use a public library available under my same account. It has actions. It has dependabot complaints.
