@@ -1,4 +1,4 @@
-export const WORDLE_TITLE = 'React Not Wordle'
+export const WORDLE_TITLE = 'Harder Wordle'
 
 export const WIN_MESSAGES = ['Great Job!', 'Awesome', 'Well done!']
 export const GAME_COPIED_MESSAGE = 'Game copied to clipboard'

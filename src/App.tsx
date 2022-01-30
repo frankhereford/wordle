@@ -60,7 +60,7 @@ function App() {
     if (gameWasWon) {
       setIsGameWon(true)
     }
-    if (loaded.guesses.length === 6 && !gameWasWon) {
+    if (loaded.guesses.length === 5 && !gameWasWon) {
       setIsGameLost(true)
     }
     return loaded.guesses
@@ -103,7 +103,7 @@ function App() {
   }, [isGameWon, isGameLost])
 
   const onChar = (value: string) => {
-    if (currentGuess.length < 5 && guesses.length < 6 && !isGameWon) {
+    if (currentGuess.length < 5 && guesses.length < 5 && !isGameWon) {
       setCurrentGuess(`${currentGuess}${value}`)
     }
   }
@@ -132,7 +132,7 @@ function App() {
 
     const winningWord = isWinningWord(currentGuess)
 
-    if (currentGuess.length === 5 && guesses.length < 6 && !isGameWon) {
+    if (currentGuess.length === 5 && guesses.length < 5 && !isGameWon) {
       setGuesses([...guesses, currentGuess])
       setCurrentGuess('')
 
