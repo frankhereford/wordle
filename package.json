@@ -19,7 +19,7 @@
     "react-scripts": "5.0.0",
     "typescript": "^4.5.4",
     "web-vitals": "^2.1.3",
-    "react-animated-cursor": "github:frankhereford/react-animated-cursor"
+    "react-animated-cursor": "github:frankhereford/react-animated-cursor#f7f0f25aac536a3c95ed053642ced4784e7ddcb1"
   },
   "scripts": {
     "build": "react-scripts build",
