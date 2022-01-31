@@ -12,6 +12,8 @@ This repo is used to experiment with Netlify Integrations and Deployments. This 
 - Faster: New game every hour.
 - Better: It's actually the same.
 
+- Added an animated curser using [react-animated-cursor](https://github.com/frankhereford/react-animated-cursor), which is forked into a public repo under this same account and refererenced in the `package.json` file using the `github:` syntax.
+
 # Wordle Clone
 
 - Go play the real Wordle [here](https://www.powerlanguage.co.uk/wordle/)
